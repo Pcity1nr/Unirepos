@@ -1,0 +1,4 @@
+cd
+mkdir mock_remote_repo
+cd mock_remote_repo
+git init --bare
